@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Kris Peyron's Blog
+title: Kris Peyron's R Blog
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -43,7 +43,7 @@ author:
   email: "kristoffer.peyron@gmail.com"
   facebook: yourname  # eg. daattali
   github: peyron    # eg. daattali
-  twitter: kris_peyron   # eg. daattali
+  twitter: krispeyron   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
